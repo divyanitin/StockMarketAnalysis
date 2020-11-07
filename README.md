@@ -1,4 +1,7 @@
 # StockMarketAnalysis
+
+## By Divya Nitin Naidu
+
 Analysis of Stocks using Machine learning Models
 
 Addressing the task of building a stock trading system based
